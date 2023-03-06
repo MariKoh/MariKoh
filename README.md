@@ -1,5 +1,11 @@
 ### Hi there 👋 My name is Kattiya Charoenpakdee, you can call me MariKoh! This account is a channel to share my skills and knowledges on Data Analysis, Machine Learning and Python. I also would like comments, feedbacks, and ideas from you!😄
 
+### These are some of my projects
+Please enjoy, I hope you get some ideas.
+
+[Market Basket Analysis - Association Rules: Sale boosting is much easier, when you know purchasing behaviors](https://github.com/MariKoh/DataScienePortfolio/tree/master/Association%20Rules)
+
+[How To Use Data Analysis in Retail Industry](https://github.com/MariKoh/DataScienePortfolio/tree/master/How%20To%20Use%20Data%20Analysis%20in%20Retail%20Industry)
 
 
 <!--
