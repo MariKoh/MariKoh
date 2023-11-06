@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Kattiya Charoenpakdee, you can call me MariKoh! This account is a channel to share my skills and knowledges on Data Analysis, Machine Learning and Python. I also would like comments, feedbacks, and ideas from you!😄
+### Hi there 👋 My name is Kattiya Charoenpakdee, you can call me Koh! This account is a channel to share my skills and knowledges on Data Analysis, Machine Learning and Python. I also would like comments, feedbacks, and ideas from you!😄
 
 ### These are some of my projects
 Please enjoy, I hope you get some ideas.
